@@ -1,3 +1,5 @@
+![igor_2.4](https://raw.githubusercontent.com/MakiRH4/igor_2.4/main/igor_2.4.jpeg)
+
 # igor_2.4
 
 A big size 3D printer based on a Voron 2.4 project form vorondesign.com.
